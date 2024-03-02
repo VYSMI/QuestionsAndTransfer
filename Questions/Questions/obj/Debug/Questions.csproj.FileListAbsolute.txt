@@ -1,0 +1,16 @@
+C:\Users\Владислав III\Documents\Projects C#\Questions\Questions\obj\Debug\Questions.csproj.AssemblyReference.cache
+C:\Users\Владислав III\Documents\Projects C#\Questions\Questions\obj\Debug\Questions.csproj.SuggestedBindingRedirects.cache
+C:\Users\Владислав III\Documents\Projects C#\Questions\Questions\obj\Debug\MainWindow.g.cs
+C:\Users\Владислав III\Documents\Projects C#\Questions\Questions\obj\Debug\App.g.cs
+C:\Users\Владислав III\Documents\Projects C#\Questions\Questions\obj\Debug\Questions_MarkupCompile.cache
+C:\Users\Владислав III\Documents\Projects C#\Questions\Questions\obj\Debug\Questions_MarkupCompile.lref
+C:\Users\Владислав III\Documents\Projects C#\Questions\Questions\bin\Debug\Questions.exe.config
+C:\Users\Владислав III\Documents\Projects C#\Questions\Questions\bin\Debug\Questions.exe
+C:\Users\Владислав III\Documents\Projects C#\Questions\Questions\bin\Debug\Questions.pdb
+C:\Users\Владислав III\Documents\Projects C#\Questions\Questions\obj\Debug\MainWindow.baml
+C:\Users\Владислав III\Documents\Projects C#\Questions\Questions\obj\Debug\Questions.g.resources
+C:\Users\Владислав III\Documents\Projects C#\Questions\Questions\obj\Debug\Questions.Properties.Resources.resources
+C:\Users\Владислав III\Documents\Projects C#\Questions\Questions\obj\Debug\Questions.csproj.GenerateResource.cache
+C:\Users\Владислав III\Documents\Projects C#\Questions\Questions\obj\Debug\Questions.csproj.CoreCompileInputs.cache
+C:\Users\Владислав III\Documents\Projects C#\Questions\Questions\obj\Debug\Questions.exe
+C:\Users\Владислав III\Documents\Projects C#\Questions\Questions\obj\Debug\Questions.pdb
