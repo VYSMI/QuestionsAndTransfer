@@ -1,0 +1,16 @@
+C:\Users\Владислав III\Documents\Projects C#\02.03.24TrnObject\02.03.24TrnObject\bin\Debug\02.03.24TrnObject.exe.config
+C:\Users\Владислав III\Documents\Projects C#\02.03.24TrnObject\02.03.24TrnObject\bin\Debug\02.03.24TrnObject.exe
+C:\Users\Владислав III\Documents\Projects C#\02.03.24TrnObject\02.03.24TrnObject\bin\Debug\02.03.24TrnObject.pdb
+C:\Users\Владислав III\Documents\Projects C#\02.03.24TrnObject\02.03.24TrnObject\obj\Debug\02.03.24TrnObject.csproj.AssemblyReference.cache
+C:\Users\Владислав III\Documents\Projects C#\02.03.24TrnObject\02.03.24TrnObject\obj\Debug\02.03.24TrnObject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Владислав III\Documents\Projects C#\02.03.24TrnObject\02.03.24TrnObject\obj\Debug\MainWindow.g.cs
+C:\Users\Владислав III\Documents\Projects C#\02.03.24TrnObject\02.03.24TrnObject\obj\Debug\App.g.cs
+C:\Users\Владислав III\Documents\Projects C#\02.03.24TrnObject\02.03.24TrnObject\obj\Debug\02.03.24TrnObject_MarkupCompile.cache
+C:\Users\Владислав III\Documents\Projects C#\02.03.24TrnObject\02.03.24TrnObject\obj\Debug\02.03.24TrnObject_MarkupCompile.lref
+C:\Users\Владислав III\Documents\Projects C#\02.03.24TrnObject\02.03.24TrnObject\obj\Debug\MainWindow.baml
+C:\Users\Владислав III\Documents\Projects C#\02.03.24TrnObject\02.03.24TrnObject\obj\Debug\02.03.24TrnObject.g.resources
+C:\Users\Владислав III\Documents\Projects C#\02.03.24TrnObject\02.03.24TrnObject\obj\Debug\_02._03._24TrnObject.Properties.Resources.resources
+C:\Users\Владислав III\Documents\Projects C#\02.03.24TrnObject\02.03.24TrnObject\obj\Debug\02.03.24TrnObject.csproj.GenerateResource.cache
+C:\Users\Владислав III\Documents\Projects C#\02.03.24TrnObject\02.03.24TrnObject\obj\Debug\02.03.24TrnObject.csproj.CoreCompileInputs.cache
+C:\Users\Владислав III\Documents\Projects C#\02.03.24TrnObject\02.03.24TrnObject\obj\Debug\02.03.24TrnObject.exe
+C:\Users\Владислав III\Documents\Projects C#\02.03.24TrnObject\02.03.24TrnObject\obj\Debug\02.03.24TrnObject.pdb
